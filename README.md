@@ -6,10 +6,8 @@
 
 ### 💬 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> •
-  <a href="https://twitter.com/your-twitter" target="_blank">Twitter</a> •
-  <a href="mailto:your.email@example.com">Email</a> •
-  <a href="https://www.facebook.com/your-facebook" target="_blank">Facebook</a>
+  <a href="https://dz.linkedin.com/in/oussama-chahoud-4b3bb82a4" target="_blank">LinkedIn</a> •
+  <a href="mailto:oussama.chahoud@univ-skikda.dz">Email</a> •
 </p>
 
 ---
@@ -34,8 +32,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChahoudOussama&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChahoudOussama&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=oussamachahoudshow_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussamachahoud&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -43,8 +41,8 @@
 ### 🚀 Top Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| [Project1](https://github.com/ChahoudOussama/Project1) | Example project description | Java, Spring Boot |
-| [Project2](https://github.com/ChahoudOussama/Project2) | Another project description | Python, Flask |
+| [Project1](https://github.com/oussamachahoud/ASLapp_backend.git) | ASLapp_backend | Java, Spring Boot |
+| [Project2](https://github.com/oussamachahoud/apriori-python.git) | apriori-python | Python |
 | [Project3](https://github.com/ChahoudOussama/Project3) | Frontend project | React, VueJS |
 
 ---
