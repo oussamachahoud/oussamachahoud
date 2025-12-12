@@ -43,7 +43,6 @@
 |---------|-------------|------|
 | [Project1](https://github.com/oussamachahoud/ASLapp_backend.git) | ASLapp_backend | Java, Spring Boot |
 | [Project2](https://github.com/oussamachahoud/apriori-python.git) | apriori-python | Python |
-| [Project3](https://github.com/ChahoudOussama/Project3) | Frontend project | React, VueJS |
 
 ---
 
